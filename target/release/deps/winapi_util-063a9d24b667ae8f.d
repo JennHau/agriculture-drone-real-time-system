@@ -1,0 +1,11 @@
+C:\Users\wongj\RustroverProjects\agriculture_drone\target\release\deps\libwinapi_util-063a9d24b667ae8f.rmeta: C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\lib.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\console.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\file.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\sysinfo.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\win.rs
+
+C:\Users\wongj\RustroverProjects\agriculture_drone\target\release\deps\libwinapi_util-063a9d24b667ae8f.rlib: C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\lib.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\console.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\file.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\sysinfo.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\win.rs
+
+C:\Users\wongj\RustroverProjects\agriculture_drone\target\release\deps\winapi_util-063a9d24b667ae8f.d: C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\lib.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\console.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\file.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\sysinfo.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\win.rs
+
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\lib.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\console.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\file.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\sysinfo.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winapi-util-0.1.8\src\win.rs:

@@ -1,0 +1,15 @@
+pub mod multispectral_camera_bm;
+pub mod thermal_bm;
+pub mod gps_bm;
+pub mod ultrasonic_sensor_bm;
+pub mod battery_management_bm;
+pub mod monitor_bm;
+pub mod sensors_to_monitor_to_main_control_bm;
+pub mod main_control_to_actuators_bm;
+pub mod actuators_bm;
+pub mod sprayers_bm;
+pub mod gear_bm;
+pub mod motor_propellers_bm;
+pub mod main_control_bm;
+pub mod actuators_to_main_control_bm;
+pub mod sensors_bm;

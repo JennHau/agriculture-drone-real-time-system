@@ -1,0 +1,11 @@
+C:\Users\wongj\RustroverProjects\agriculture_drone\target\release\deps\libciborium_ll-7017673d2b5cf324.rmeta: C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\lib.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\dec.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\enc.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\hdr.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\seg.rs
+
+C:\Users\wongj\RustroverProjects\agriculture_drone\target\release\deps\libciborium_ll-7017673d2b5cf324.rlib: C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\lib.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\dec.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\enc.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\hdr.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\seg.rs
+
+C:\Users\wongj\RustroverProjects\agriculture_drone\target\release\deps\ciborium_ll-7017673d2b5cf324.d: C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\lib.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\dec.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\enc.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\hdr.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\seg.rs
+
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\lib.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\dec.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\enc.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\hdr.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ciborium-ll-0.2.2\src\seg.rs:

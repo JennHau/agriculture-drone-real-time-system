@@ -1,0 +1,8 @@
+C:\Users\wongj\RustroverProjects\agriculture_drone\target\debug\build\amq-protocol-ee716f0b17ad3e76\build_script_build-ee716f0b17ad3e76.exe: C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-1.4.0\build.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-1.4.0/templates/protocol.rs
+
+C:\Users\wongj\RustroverProjects\agriculture_drone\target\debug\build\amq-protocol-ee716f0b17ad3e76\build_script_build-ee716f0b17ad3e76.d: C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-1.4.0\build.rs C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-1.4.0/templates/protocol.rs
+
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-1.4.0\build.rs:
+C:\Users\wongj\.cargo\registry\src\index.crates.io-6f17d22bba15001f\amq-protocol-1.4.0/templates/protocol.rs:
+
+# env-dep:CARGO_MANIFEST_DIR=C:\\Users\\wongj\\.cargo\\registry\\src\\index.crates.io-6f17d22bba15001f\\amq-protocol-1.4.0
